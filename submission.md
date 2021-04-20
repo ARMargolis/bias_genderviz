@@ -9,7 +9,7 @@ reflected society's biases. But we can "dissect" AI's brains and determine what 
 from pronouns such as "I" and "you" to nouns such as "nurse" and "librarian" to verbs such as "lead" and "bake" to adjectives such as "smart" and "beautiful,"
 affects translation between implicitly and explicitly gendered words. This graphic shows the gender implications of various words in GPT's predecessor, word2vec:
 
-![Graphical Representation of Biases in Various Words](IMG_1527.jpg)
+![Graphical Representation of Biases in Various Words](IMG_1527.JPG)
 
 
 Because GPT-3 relies on attention, it is relatively easy to explain why the NLP tool chooses
