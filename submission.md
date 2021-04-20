@@ -5,10 +5,14 @@
 
 We are interested in helping audience use artificial intelligence to explore languages, especially as it relates to gender bias. Natural Language Processing (NLP) 
 tools such as Generative Pre-Trained Transformers (GPT) -2 and -3 trained on the English language, where "he" is 50% more common than "she," have learned and 
-reflected society's biases. But we can "dissect" AI's brains and determine what is making GPT-3 assume a person is male or female. Because GPT-3 relies on 
-attention, it is relatively easy to explain why the NLP tool chooses male or female words. http://jalammar.github.io/illustrated-transformer/ If possible, we can
-extend to biases in attentional image analysis tools, such as Contrastive Language–Image Pre-training. https://openai.com/blog/clip/ Our goal would be to 
-build on work by NLP experts, often directed toward other experts, to allow general audiences to explore gender bias in GPT-3.
+reflected society's biases. But we can "dissect" AI's brains and determine what is making GPT-3 assume a person is male or female. Every word or phrase,
+from pronouns such as "I" and "you" to nouns such as "nurse" and "librarian" to verbs such as "lead" and "bake" to adjectives such as "smart" and "beautiful,"
+affects translation between implicitly and explicitly gendered words. This graphic shows the gender implications of various words in word2vec:
+
+Because GPT-3 relies on attention, it is relatively easy to explain why the NLP tool chooses
+male or female words. http://jalammar.github.io/illustrated-transformer/ 
+If possible, we can extend to biases in attentional image analysis tools, such as Contrastive Language–Image Pre-training. https://openai.com/blog/clip/ 
+Our goal would be to build on work by NLP experts, often directed toward other experts, to allow general audiences to explore gender bias in GPT-3.
 
 * What experience do you have in collaborating?
 
