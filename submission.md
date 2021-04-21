@@ -12,10 +12,10 @@ affects translation between implicitly and explicitly gendered words. This graph
 ![Graphical Representation of Biases in Various Words](IMG_1527.JPG)
 
 
-Because GPT-3 relies on attention, it is relatively easy to explain why the NLP tool chooses
-male or female words. http://jalammar.github.io/illustrated-transformer/ 
+Because GPT-3 relies on attention, it is relatively easy to explain why the NLP tool choose male or female words. http://jalammar.github.io/illustrated-transformer/ 
 If possible, we can extend to biases in attentional image analysis tools, such as Contrastive Language–Image Pre-training. https://openai.com/blog/clip/ 
-Our goal would be to build on work by NLP experts, often directed toward other experts, to allow general audiences to explore gender bias in GPT-3.
+Our goal would be to build on work by NLP experts, often directed toward other experts, to allow general audiences to explore gender bias in GPT-3. Because GPT-3 
+reflects the data put into it, audiences would learn not only about artificial intelligence but also the human biases that everyone carries around.
 
 * What experience do you have in collaborating?
 
